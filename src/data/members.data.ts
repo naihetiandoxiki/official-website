@@ -8,6 +8,13 @@
  */
 const members: Member[] = [
   {
+    name:'奈何天'，
+    avatar:'https://www.xiaohongshu.com/explore/626d0292000000000102578d'，
+    description:'去成为那颗遥不可及的星'
+    githubUrl:'https://github.com/naihetiandoxiki'，
+    blogUrl:'https://naihetiandoxiki.github.io/'
+  }
+  {
     name: 'redhat',
     avatar: 'github:redhat123456',
     description: '题不可一日不刷',
